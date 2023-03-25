@@ -1,0 +1,14 @@
+#link,a{
+    color: lightgreen;
+    list-style:none;
+    padding: none;
+    
+}
+.favSites{
+    margin: 20px;
+}
+#link,a:hover{
+    padding: none;
+    color: red;
+    
+}
